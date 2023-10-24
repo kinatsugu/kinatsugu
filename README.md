@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![github-chart](https://github-chart.vercel.app/api?user=kinatsugu)](https://github.com/rokumura7/github-chart)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinatsugu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kinatsugu/kinatsugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
